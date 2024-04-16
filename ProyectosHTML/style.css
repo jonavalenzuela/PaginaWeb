@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.imgen {
+    margin: 0 30px;
+}
+
+.imagen {
+    margin: 0 50px;
+}
+
+.btn {
+    display: inline-block;
+    background-color: snow;
+    color: black;
+    text-decoration: none;
+    margin: 5px;
+    padding: 5px;
+}
+
